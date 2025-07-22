@@ -1,6 +1,6 @@
 // Routing
 
-// 1xx - Information, pedning
+// 1xx - Information, pending
 // 2xx - success info, 200, 201,204
 // 3xx - redirects 301
 // 4xx - client errors 400,401,404
